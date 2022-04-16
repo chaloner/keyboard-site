@@ -172,7 +172,6 @@ span{
 		margin-right: 0;
 		margin-left: 0;
 		text-align: center;
-		padding-left: 8%;
 	}
 	.section_1, .section_2 , .section_3{
 		grid-template-columns: 1fr;
