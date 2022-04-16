@@ -178,7 +178,7 @@ span{
 		margin: 0 auto;
 		align-items: center;
 		display: block;
-		padding-left:30px;
+		padding-left: 20px;
 
 	}
 
@@ -207,5 +207,10 @@ span{
 		text-align: center;
 		
 	}
+	.button{
+		width: 180px;
+		height: 50px;
+	}
+}
 
 	
